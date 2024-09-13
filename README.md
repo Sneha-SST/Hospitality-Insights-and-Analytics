@@ -21,4 +21,6 @@ In order to give them with meaningful insights based on their historical data an
 
 ## Dashboard
 
+![image](https://github.com/user-attachments/assets/fb85f097-36f4-4f4d-9585-34bff27d0211)
+
 
